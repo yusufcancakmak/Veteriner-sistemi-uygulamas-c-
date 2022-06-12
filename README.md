@@ -1,1 +1,1 @@
-# Veteriner-sistemi-uygulamas-c-
+# Vet Sistemi Projesi
